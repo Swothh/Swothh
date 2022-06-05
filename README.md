@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**Swothh/Swothh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img width="300" align="right" src="https://i.ibb.co/FDrdkJ9/IMG-4578.png" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Hi <img width="35" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" />, I'm Swôth.</h1>
+
+<h2><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/magnifying-glass-tilted-right_1f50e.png" /> About</h2>
+
+- Full-Stack Developer. I live in Turkey. I'm high school <br/> student and self-improvement person. I guess that's it.
+- TypeScript is my favorite programming language.
+- Personal website: [swoth.xyz](https://swoth.xyz)
+
+<h2 width="100%"><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/trophy_1f3c6.png" /> GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=swothh&theme=darkhub&no-frame=true" />
+
+<h2 width="100%"><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/gear_2699-fe0f.png" /> Technologies I use</h2>
+<img src="https://skillicons.dev/icons?i=alpinejs,bootstrap,azure,css,sass,html,js,ts,php,react,vue,svelte,next,nuxt,mongodb,discord,cloudflare,codepen,electron,express,fastapi,tailwindcss,git,github,heroku,nodejs,webpack,markdown,netlify,pug" />
+
+<h2 width="100%"><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/sparkles_2728.png" /> Stats</h2>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=swothh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
+<img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=swothh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
