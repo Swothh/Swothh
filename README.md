@@ -11,7 +11,7 @@
 - Personal website: [swoth.xyz](https://swoth.xyz)
 
 <h2 width="100%"><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/trophy_1f3c6.png" /> GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=swothh&theme=darkhub&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=swothh&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
 
 <h2 width="100%"><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/gear_2699-fe0f.png" /> Technologies I use</h2>
 <img src="https://skillicons.dev/icons?i=alpinejs,bootstrap,azure,css,sass,html,js,ts,php,react,vue,svelte,next,nuxt,mongodb,discord,cloudflare,codepen,electron,express,fastapi,tailwindcss,git,github,heroku,nodejs,webpack,markdown,netlify,pug" />
