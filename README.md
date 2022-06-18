@@ -8,7 +8,7 @@
 
 - Full-Stack Developer. I live in Turkey. I'm high school <br/> student and self-improvement person. I guess that's it.
 - TypeScript is my favorite programming language.
-- Personal website: [swoth.xyz](https://swoth.xyz)
+- Personal website: [swoth.me](https://swoth.me)
 - ![](https://komarev.com/ghpvc/?username=swothh&style=for-the-badge)
 
 <h2 width="100%"><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/trophy_1f3c6.png" /> GitHub Trophies</h2>
