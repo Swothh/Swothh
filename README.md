@@ -1,5 +1,3 @@
-
-
 <img width="300" align="right" src="https://i.ibb.co/FDrdkJ9/IMG-4578.png" />
 
 <h1>Hi <img width="35" src="https://cdn.swoth.live/emojis/waving-hand.gif" />, I'm Swôth.</h1>
