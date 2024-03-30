@@ -4,7 +4,7 @@
 
 <h2><img width="25" src="https://cdn.swoth.live/emojis/magnifying-glass.png" /> About</h2>
 
-- Full-Stack Developer. I live in Turkey. I'm high school <br/> student and self-improvement person. I guess that's it.
+- Full-Stack Developer. I live in Turkey. I'm university <br/> student and self-improvement person. I guess that's it.
 - TypeScript is my favorite programming language.
 - Personal website: [swoth.live](https://swoth.live)
 - ![](https://komarev.com/ghpvc/?username=swothh&style=for-the-badge)
